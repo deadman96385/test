@@ -17,40 +17,11 @@
     <category name="Annex1" >
 
         <wallpaper
-            author="Annex1"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-Liquid1.png"
-            url="http://android.markjohnston.us/DL/LWP/Annex-Liquid1.png"
-            name="Liquid1" />
+            author=""
+            thumbUrl="http://i.imgur.com/9UgrPnk.jpg"
+            url="http://i.imgur.com/9UgrPnk.jpg"
+            name="Matrix" />
 
-        <wallpaper
-            author="Annex1"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-Liquid2.png"
-            url="http://android.markjohnston.us/DL/LWP/Annex-Liquid2.png"
-            name="Liquid2" />
-
-        <wallpaper
-            author="Annex1"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-Liquid3.png"
-            url="http://android.markjohnston.us/DL/LWP/Annex-Liquid3.png"
-            name="Liquid3" />
-
-        <wallpaper
-            author="Annex1"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-Liquid4.png"
-            url="http://android.markjohnston.us/DL/LWP/Annex-Liquid4.png"
-            name="Liquid4" />
-            
-        <wallpaper
-            author="Annex1"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-LiquidDNA.jpg"
-            url="http://android.markjohnston.us/DL/LWP/Annex-LiquidDNA.jpg"
-            name="LiquidDNA" />
-
-        <wallpaper
-            author="Annex1"
-            thumbUrl="http://android.markjohnston.us/DL/LWP/Annex-LiquidLights.jpg"
-            url="http://android.markjohnston.us/DL/LWP/Annex-LiquidLights.jpg"
-            name="LiquidLights" />
     </category>
 
 </wallpapers>
