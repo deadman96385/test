@@ -14,13 +14,67 @@
         name="<wallpaper name">
     -->
 
-    <category name="Annex1" >
+    <category name="Technology" >
 
         <wallpaper
             author=""
             thumbUrl="http://i.imgur.com/9UgrPnk.jpg"
             url="http://i.imgur.com/9UgrPnk.jpg"
             name="Matrix" />
+
+        <wallpaper
+            author=""
+            thumbUrl="http://i.imgur.com/PaGQj4I.jpg"
+            url="http://i.imgur.com/PaGQj4I.jpg"
+            name="Circut" />
+
+        <wallpaper
+            author=""
+            thumbUrl="http://i.imgur.com/KoWAbhE.jpg"
+            url="http://i.imgur.com/KoWAbhE.jpg"
+            name="Phone Liquid" />
+            
+        <wallpaper
+            author=""
+            thumbUrl="http://i.imgur.com/4xF6Nrj.jpg"
+            url="http://i.imgur.com/4xF6Nrj.jpg"
+            name="Light Bulb" />
+
+        <wallpaper
+            author=""
+            thumbUrl="http://i.imgur.com/mneCOhG.jpg"
+            url="http://i.imgur.com/mneCOhG.jpg"
+            name="Circuit Board" />
+
+        <wallpaper
+            author=""
+            thumbUrl="http://i.imgur.com/nXJERMe.jpg"
+            url="http://i.imgur.com/nXJERMe.jpg"
+            name="Ethernet" />
+
+        <wallpaper
+            author=""
+            thumbUrl="http://i.imgur.com/3AfhI68.jpg"
+            url="http://i.imgur.com/3AfhI68.jpg"
+            name="1010101010" />
+
+        <wallpaper
+            author=""
+            thumbUrl="http://i.imgur.com/cltg3Ya.jpg"
+            url="http://i.imgur.com/cltg3Ya.jpg"
+            name="Green Android" />
+
+        <wallpaper
+            author=""
+            thumbUrl="http://i.imgur.com/oCzkpE3.jpg"
+            url="http://i.imgur.com/oCzkpE3.jpg"
+            name="Electric" />
+            
+        <wallpaper
+            author=""
+            thumbUrl="http://i.imgur.com/poH1p1N.jpg"
+            url="http://i.imgur.com/poH1p1N.jpg"
+            name="DNA" />
 
     </category>
 
