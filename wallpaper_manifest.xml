@@ -284,4 +284,58 @@
 
     </category>
 
+    <category name="Random" >
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/JrtEGRM.jpg"
+            url="http://i.imgur.com/JrtEGRM.jpg"
+            name="Hungry Chrome" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/q9WYy9c.jpg"
+            url="http://i.imgur.com/q9WYy9c.jpg"
+            name="Fireball" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/AwErvYz.jpg"
+            url="http://i.imgur.com/AwErvYz.jpg"
+            name="Apple v Android" />
+            
+        <wallpaper
+            thumbUrl="http://i.imgur.com/gxuobe2.jpg"
+            url="http://i.imgur.com/gxuobe2.jpg"
+            name="twinkie" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/OjsLRmw.jpg"
+            url="http://i.imgur.com/OjsLRmw.jpg"
+            name="Skittles" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/C9mJNar.jpg"
+            url="http://i.imgur.com/C9mJNar.jpg"
+            name="Nothing" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/Lk6ibXt.jpg"
+            url="http://i.imgur.com/Lk6ibXt.jpg"
+            name="Sparta" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/o2LErX2.jpg"
+            url="http://i.imgur.com/o2LErX2.jpg"
+            name="Windoge" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/3obntCd.jpg"
+            url="http://i.imgur.com/3obntCd.jpg"
+            name="Goat" />
+            
+        <wallpaper
+            thumbUrl="http://i.imgur.com/JkRAKhE.jpg"
+            url="http://i.imgur.com/JkRAKhE.jpg"
+            name="Doge" />
+
+    </category>
+
 </wallpapers>
