@@ -230,4 +230,58 @@
 
     </category>
 
+    <category name="Kittens" >
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/C9NsbIv.jpg"
+            url="http://i.imgur.com/C9NsbIv.jpg"
+            name="Grey" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/2XLFABW.jpg"
+            url="http://i.imgur.com/2XLFABW.jpg"
+            name="Orange" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/GKwPQu7.jpg"
+            url="http://i.imgur.com/GKwPQu7.jpg"
+            name="Grey and blue" />
+            
+        <wallpaper
+            thumbUrl="http://i.imgur.com/LwCXTLF.jpg"
+            url="http://i.imgur.com/LwCXTLF.jpg"
+            name="Outside" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/kDM6Zox.jpg"
+            url="http://i.imgur.com/kDM6Zox.jpg"
+            name="So Happy" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/AERq5AQ.jpg"
+            url="http://i.imgur.com/AERq5AQ.jpg"
+            name="Stuck" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/ivH16oq.jpg"
+            url="http://i.imgur.com/ivH16oq.jpg"
+            name="Big Head" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/v7Petb0.jpg"
+            url="http://i.imgur.com/v7Petb0.jpg"
+            name="Easter" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/m8Cg785.jpg"
+            url="http://i.imgur.com/m8Cg785.jpg"
+            name="Sun Kissed" />
+            
+        <wallpaper
+            thumbUrl="http://i.imgur.com/kYGdh8M.jpg"
+            url="http://i.imgur.com/kYGdh8M.jpg"
+            name="Together" />
+
+    </category>
+
 </wallpapers>
