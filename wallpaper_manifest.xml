@@ -135,7 +135,7 @@
             name="Pipe" />
 
         <wallpaper
-            thumbUrl="http://i.imgur.com/ojl340u.jpg
+            thumbUrl="http://i.imgur.com/ojl340u.jpg"
             url="http://i.imgur.com/ojl340u.jpg"
             name="Grumpy Bug" />
             
@@ -173,6 +173,60 @@
             thumbUrl="http://i.imgur.com/WuGJrZb.jpg"
             url="http://i.imgur.com/WuGJrZb.jpg"
             name="Offline" />
+
+    </category>
+
+    <category name="Cars" >
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/pnXWy4r.jpg"
+            url="http://i.imgur.com/pnXWy4r.jpg"
+            name="P4" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/tG97gmX.jpg"
+            url="http://i.imgur.com/tG97gmX.jpg"
+            name="Shelby GT500" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/ahUF2O7.jpg"
+            url="http://i.imgur.com/ojl340u.jpg"
+            name="Ferrari 458" />
+            
+        <wallpaper
+            thumbUrl="http://i.imgur.com/wEBvwd4.jpg"
+            url="http://i.imgur.com/wEBvwd4.jpg"
+            name="Camaro Black Concept" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/V3ZVZEz.jpg"
+            url="http://i.imgur.com/V3ZVZEz.jpg"
+            name="SLR" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/AOsQ1nQ.jpg"
+            url="http://i.imgur.com/AOsQ1nQ.jpg"
+            name="2016 Ford Mustang" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/KbX5S4e.jpg"
+            url="http://i.imgur.com/KbX5S4e.jpg"
+            name="Agera RS" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/5vKIZ83.jpg"
+            url="http://i.imgur.com/5vKIZ83.jpg"
+            name="Tron" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/ww7Ttu5.jpg"
+            url="http://i.imgur.com/ww7Ttu5.jpg"
+            name="Porsche 911 Turbo" />
+            
+        <wallpaper
+            thumbUrl="http://i.imgur.com/MJpSLEs.jpg"
+            url="http://i.imgur.com/MJpSLEs.jpg"
+            name="Shelby Mustang" />
 
     </category>
 
