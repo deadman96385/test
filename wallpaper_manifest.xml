@@ -77,5 +77,69 @@
             name="DNA" />
 
     </category>
+    
+        <category name="Planes" >
+
+        <wallpaper
+            author=""
+            thumbUrl="http://i.imgur.com/SG4Lq5P.jpg"
+            url="http://i.imgur.com/SG4Lq5P.jpg"
+            name="Dual Prop" />
+
+        <wallpaper
+            author=""
+            thumbUrl="http://i.imgur.com/4uwVqKN.jpg"
+            url="http://i.imgur.com/4uwVqKN.jpg"
+            name="Jet Perspective" />
+
+        <wallpaper
+            author=""
+            thumbUrl="http://i.imgur.com/43OimA6.jpg"
+            url="http://i.imgur.com/43OimA6.jpg"
+            name="Bomber" />
+            
+        <wallpaper
+            author=""
+            thumbUrl="http://i.imgur.com/REx71Dt.jpg"
+            url="http://i.imgur.com/REx71Dt.jpg"
+            name="Intercepter" />
+
+        <wallpaper
+            author=""
+            thumbUrl="http://i.imgur.com/ot1Lyf6.jpg"
+            url="http://i.imgur.com/ot1Lyf6.jpg"
+            name="F-16" />
+
+        <wallpaper
+            author=""
+            thumbUrl="http://i.imgur.com/D1xqdE2.jpg"
+            url="http://i.imgur.com/D1xqdE2.jpg"
+            name="Son of the Wind" />
+
+        <wallpaper
+            author=""
+            thumbUrl="http://i.imgur.com/pIZWnrd.jpg"
+            url="http://i.imgur.com/pIZWnrd.jpg"
+            name="Bombing Run" />
+
+        <wallpaper
+            author=""
+            thumbUrl="http://i.imgur.com/XlpWWvx.jpg"
+            url="http://i.imgur.com/XlpWWvx.jpg"
+            name="Cargo Drop" />
+
+        <wallpaper
+            author=""
+            thumbUrl="http://i.imgur.com/OiWvMca.jpg"
+            url="http://i.imgur.com/OiWvMca.jpg"
+            name="Refuel" />
+            
+        <wallpaper
+            author=""
+            thumbUrl="http://i.imgur.com/0nQFHDU.jpg"
+            url="http://i.imgur.com/0nQFHDU.jpg"
+            name="Super Sonic" />
+
+    </category>
 
 </wallpapers>
