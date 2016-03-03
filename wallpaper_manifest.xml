@@ -17,128 +17,162 @@
     <category name="Technology" >
 
         <wallpaper
-            author=""
             thumbUrl="http://i.imgur.com/9UgrPnk.jpg"
             url="http://i.imgur.com/9UgrPnk.jpg"
             name="Matrix" />
 
         <wallpaper
-            author=""
             thumbUrl="http://i.imgur.com/PaGQj4I.jpg"
             url="http://i.imgur.com/PaGQj4I.jpg"
             name="Circut" />
 
         <wallpaper
-            author=""
             thumbUrl="http://i.imgur.com/KoWAbhE.jpg"
             url="http://i.imgur.com/KoWAbhE.jpg"
             name="Phone Liquid" />
             
         <wallpaper
-            author=""
             thumbUrl="http://i.imgur.com/4xF6Nrj.jpg"
             url="http://i.imgur.com/4xF6Nrj.jpg"
             name="Light Bulb" />
 
         <wallpaper
-            author=""
             thumbUrl="http://i.imgur.com/mneCOhG.jpg"
             url="http://i.imgur.com/mneCOhG.jpg"
             name="Circuit Board" />
 
         <wallpaper
-            author=""
             thumbUrl="http://i.imgur.com/nXJERMe.jpg"
             url="http://i.imgur.com/nXJERMe.jpg"
             name="Ethernet" />
 
         <wallpaper
-            author=""
             thumbUrl="http://i.imgur.com/3AfhI68.jpg"
             url="http://i.imgur.com/3AfhI68.jpg"
             name="1010101010" />
 
         <wallpaper
-            author=""
             thumbUrl="http://i.imgur.com/cltg3Ya.jpg"
             url="http://i.imgur.com/cltg3Ya.jpg"
             name="Green Android" />
 
         <wallpaper
-            author=""
             thumbUrl="http://i.imgur.com/oCzkpE3.jpg"
             url="http://i.imgur.com/oCzkpE3.jpg"
             name="Electric" />
             
         <wallpaper
-            author=""
             thumbUrl="http://i.imgur.com/poH1p1N.jpg"
             url="http://i.imgur.com/poH1p1N.jpg"
             name="DNA" />
 
     </category>
     
-        <category name="Planes" >
+    <category name="Planes" >
 
         <wallpaper
-            author=""
             thumbUrl="http://i.imgur.com/SG4Lq5P.jpg"
             url="http://i.imgur.com/SG4Lq5P.jpg"
             name="Dual Prop" />
 
         <wallpaper
-            author=""
             thumbUrl="http://i.imgur.com/4uwVqKN.jpg"
             url="http://i.imgur.com/4uwVqKN.jpg"
             name="Jet Perspective" />
 
         <wallpaper
-            author=""
             thumbUrl="http://i.imgur.com/43OimA6.jpg"
             url="http://i.imgur.com/43OimA6.jpg"
             name="Bomber" />
             
         <wallpaper
-            author=""
             thumbUrl="http://i.imgur.com/REx71Dt.jpg"
             url="http://i.imgur.com/REx71Dt.jpg"
             name="Intercepter" />
 
         <wallpaper
-            author=""
             thumbUrl="http://i.imgur.com/ot1Lyf6.jpg"
             url="http://i.imgur.com/ot1Lyf6.jpg"
             name="F-16" />
 
         <wallpaper
-            author=""
             thumbUrl="http://i.imgur.com/D1xqdE2.jpg"
             url="http://i.imgur.com/D1xqdE2.jpg"
             name="Son of the Wind" />
 
         <wallpaper
-            author=""
             thumbUrl="http://i.imgur.com/pIZWnrd.jpg"
             url="http://i.imgur.com/pIZWnrd.jpg"
             name="Bombing Run" />
 
         <wallpaper
-            author=""
             thumbUrl="http://i.imgur.com/XlpWWvx.jpg"
             url="http://i.imgur.com/XlpWWvx.jpg"
             name="Cargo Drop" />
 
         <wallpaper
-            author=""
             thumbUrl="http://i.imgur.com/OiWvMca.jpg"
             url="http://i.imgur.com/OiWvMca.jpg"
             name="Refuel" />
             
         <wallpaper
-            author=""
             thumbUrl="http://i.imgur.com/0nQFHDU.jpg"
             url="http://i.imgur.com/0nQFHDU.jpg"
             name="Super Sonic" />
+
+    </category>
+
+    <category name="Programming" >
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/GnpkkHb.jpg"
+            url="http://i.imgur.com/GnpkkHb.jpg"
+            name="Source Code" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/9nuZZQG.jpg"
+            url="http://i.imgur.com/9nuZZQG.jpg"
+            name="Pipe" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/ojl340u.jpg
+            url="http://i.imgur.com/ojl340u.jpg"
+            name="Grumpy Bug" />
+            
+        <wallpaper
+            thumbUrl="http://i.imgur.com/C0SfOh8.jpg"
+            url="http://i.imgur.com/C0SfOh8.jpg"
+            name="Linux" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/4T7K1VK.jpg"
+            url="http://i.imgur.com/4T7K1VK.jpg"
+            name="Code" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/sYS4WTR.jpg"
+            url="http://i.imgur.com/sYS4WTR.jpg"
+            name="Life Motto" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/yZlgy2A.jpg"
+            url="http://i.imgur.com/yZlgy2A.jpg"
+            name="C#" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/grWQehr.jpg"
+            url="http://i.imgur.com/grWQehr.jpg"
+            name="Love" />
+
+        <wallpaper
+            thumbUrl="http://i.imgur.com/GnXfbFk.jpg"
+            url="http://i.imgur.com/GnXfbFk.jpg"
+            name="Caffeine" />
+            
+        <wallpaper
+            thumbUrl="http://i.imgur.com/WuGJrZb.jpg"
+            url="http://i.imgur.com/WuGJrZb.jpg"
+            name="Offline" />
 
     </category>
 
